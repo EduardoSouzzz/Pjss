@@ -41,7 +41,6 @@ public class Tarefa {
         this.concluida = true;
     }
 
-
     // toString
     public String toString() {
         return "Nome: " + nome +
